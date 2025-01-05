@@ -1,3 +1,2 @@
-Hi all,
-Please remember download the newest codes before you edit anything in your local version.
-Also, upload every files you edited when you finish your work everyday.
+Hi! This project was completed by a total of three team members. 
+In order to facilitate everyone to view the project I participated in on my github, I fork it over here.
